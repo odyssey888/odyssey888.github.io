@@ -38,3 +38,20 @@ h1 {
 .countdown-el {
     text-align: center;
 }
+
+.countdown-el span {
+    font-size: 1.3rem;
+}
+
+
+.shooter {
+	background-color: green;
+}
+
+.laser {
+	background-color: orange;
+}
+
+.boom {
+	background-color: red;
+}
